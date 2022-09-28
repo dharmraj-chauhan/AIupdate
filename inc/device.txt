@@ -1,0 +1,31 @@
+Device_ID = RMX1833
+Magic_No = 860252040560451
+Device_Name = RealmeU1
+Program_Name = application1
+Checksum = 114570
+Version = 1.0
+Boot = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application1.txt
+
+Device_ID = RMX1833
+Magic_No = 860252040560451
+Device_Name = RealmeU1
+Program_Name = application2
+Checksum = 114570
+Version = 1.0
+Boot = D:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application2.txt
+
+Device_ID = RMX1833
+Magic_No = 860252040560451
+Device_Name = RealmeU1
+Program_Name = application3
+Checksum = 114570
+Version = 1.0
+Boot = E:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application3.txt
+
+Device_ID = RMX1833
+Magic_No = 860252040560451
+Device_Name = RealmeU1
+Program_Name = application4
+Checksum = 114570
+Version = 1.0
+Boot = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application3.txt

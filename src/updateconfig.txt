@@ -1,0 +1,47 @@
+Device_ID = RMX1033
+Magic_No = 860252040560451
+Device_Name = Realme 2 pro
+Checksum = 114570
+Program_Name = application1
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application1.txt
+Boot = 3_6_0.2_C:\\Users\\DHACHAUH\\Downloads\\download1.txt
+
+Device_ID = RMX1833
+Magic_No = 860252040560472
+Device_Name = RealmeU1
+Checksum = 114570
+Program_Name = application1
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application1.txt
+Boot = 2_2_0.2_C:\\Users\\DHACHAUH\\Downloads\\download1.txt
+
+Device_ID = RMX1922
+Magic_No = 860252040560432
+Device_Name = Realme 5 pro
+Checksum = 114570
+Program_Name = application1
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application1.txt
+Boot = 3_6_0.2_C:\\Users\\DHACHAUH\\Downloads\\download1.txt
+
+Device_ID = RMX1933
+Magic_No = 860252040560451
+Device_Name = Realme 7 pro
+Checksum = 114570
+Program_Name = application1
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\application1.txt
+Boot = 3_6_0.2_C:\\Users\\DHACHAUH\\Downloads\\download1.txt
+
+Device_ID = RMX1033
+Magic_No = 860252040560472
+Device_Name = Realme 2 pro
+Checksum = 114570
+Program_Name = application1
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\program1.txt
+Boot = 3_6_0.2_C:\\Users\\DHACHAUH\\Downloads\\download1.txt
+
+Device_ID = RMX1922
+Magic_No = 860252040560432
+Device_Name = Realme 5 pro
+Checksum = 114570
+Program_Name = application1
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\programfiles\\program1.txt
+Boot = 3_6_0.2_C:\\Users\\DHACHAUH\\Downloads\\download1.txt

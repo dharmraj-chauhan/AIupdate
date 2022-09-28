@@ -1,0 +1,5 @@
+Device_ID = RMX1833
+Magic_No = 860252040560451
+Device_Name = RealmeU1
+Checksum = 114570
+Base_Address = C:\\Users\\DHACHAUH\\eclipse-workspace\\AIupdate\\inc\\program1.txt
